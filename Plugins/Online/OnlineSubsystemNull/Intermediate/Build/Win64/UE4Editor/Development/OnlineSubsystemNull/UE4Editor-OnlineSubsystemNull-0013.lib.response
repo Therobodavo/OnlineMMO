@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OnlineSubsystemNull-0013.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemNull\Module.OnlineSubsystemNull.cpp.obj"
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemNull\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemNull\UE4Editor-OnlineSubsystemNull-0013.lib"
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemNull

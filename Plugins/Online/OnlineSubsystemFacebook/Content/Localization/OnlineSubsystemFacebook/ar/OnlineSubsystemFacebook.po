@@ -1,0 +1,22 @@
+﻿# OnlineSubsystemFacebook Arabic translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: OnlineSubsystemFacebook\n"
+"POT-Creation-Date: 2018-10-30 16:45\n"
+"PO-Revision-Date: 2018-10-30 16:45\n"
+"Language-Team: \n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 && n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+
+#. Key:	OnlineServiceName
+#. SourceLocation:	Plugins/Online/OnlineSubsystemFacebook/Source/Private/OnlineSubsystemFacebookCommon.cpp:211
+#: Plugins/Online/OnlineSubsystemFacebook/Source/Private/OnlineSubsystemFacebookCommon.cpp:211
+msgctxt "OnlineSubsystemFacebook,OnlineServiceName"
+msgid "Facebook"
+msgstr "Facebook"
+

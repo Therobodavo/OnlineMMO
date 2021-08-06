@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OnlineBlueprintSupport-0017.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineBlueprintSupport\Module.OnlineBlueprintSupport.cpp.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineBlueprintSupport\Module.OnlineBlueprintSupport.gen.cpp.obj"
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineBlueprintSupport\UE4Editor-OnlineBlueprintSupport-0017.lib"
+/INCLUDE:IMPLEMENT_MODULE_OnlineBlueprintSupport

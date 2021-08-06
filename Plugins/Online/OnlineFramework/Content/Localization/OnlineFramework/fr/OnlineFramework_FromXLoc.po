@@ -1,0 +1,29 @@
+﻿# OnlineFramework English translation.
+# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: OnlineFramework\n"
+"POT-Creation-Date: 2018-01-09 11:31\n"
+"PO-Revision-Date: 2018-01-09 11:31\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	DevRegion
+#. SourceLocation:	Plugins/Online/OnlineFramework/Source/Qos/Private/QosRegionManager.cpp:270
+#: Plugins/Online/OnlineFramework/Source/Qos/Private/QosRegionManager.cpp:270
+msgctxt "MMRegion,DevRegion"
+msgid "Development"
+msgstr "Développement"
+
+#. Key:	KickedPlayerFromParty
+#. SourceLocation:	Plugins/Online/OnlineFramework/Source/Lobby/Private/LobbyBeaconHost.cpp:268
+#: Plugins/Online/OnlineFramework/Source/Lobby/Private/LobbyBeaconHost.cpp:268
+msgctxt "NetworkErrors,KickedPlayerFromParty"
+msgid "Kicked from party."
+msgstr "Expulsé(e) du groupe."
+

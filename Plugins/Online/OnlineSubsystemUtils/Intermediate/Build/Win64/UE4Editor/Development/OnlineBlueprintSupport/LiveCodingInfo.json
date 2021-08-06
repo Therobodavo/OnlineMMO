@@ -1,0 +1,31 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineBlueprintSupport.cpp.obj": [
+			"K2Node_InAppPurchase.cpp.obj",
+			"K2Node_InAppPurchase2.cpp.obj",
+			"K2Node_InAppPurchaseQuery.cpp.obj",
+			"K2Node_InAppPurchaseQuery2.cpp.obj",
+			"K2Node_InAppPurchaseQueryOwned2.cpp.obj",
+			"K2Node_InAppPurchaseRestore.cpp.obj",
+			"K2Node_InAppPurchaseRestore2.cpp.obj",
+			"K2Node_InAppPurchaseUnprocessed2.cpp.obj",
+			"K2Node_LeaderboardFlush.cpp.obj",
+			"K2Node_LeaderboardQuery.cpp.obj",
+			"OnlineBlueprintSupportModule.cpp.obj"
+		],
+		"Module.OnlineBlueprintSupport.gen.cpp.obj": [
+			"K2Node_InAppPurchase.gen.cpp.obj",
+			"K2Node_InAppPurchase2.gen.cpp.obj",
+			"K2Node_InAppPurchaseQuery.gen.cpp.obj",
+			"K2Node_InAppPurchaseQuery2.gen.cpp.obj",
+			"K2Node_InAppPurchaseQueryOwned2.gen.cpp.obj",
+			"K2Node_InAppPurchaseRestore.gen.cpp.obj",
+			"K2Node_InAppPurchaseRestore2.gen.cpp.obj",
+			"K2Node_InAppPurchaseUnprocessed2.gen.cpp.obj",
+			"K2Node_LeaderboardFlush.gen.cpp.obj",
+			"K2Node_LeaderboardQuery.gen.cpp.obj",
+			"OnlineBlueprintSupport.init.gen.cpp.obj"
+		]
+	}
+}

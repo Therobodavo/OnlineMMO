@@ -1,0 +1,67 @@
+/Zc:inline
+/nologo
+/Oi
+/c
+/Gw
+/Gy
+/Zm1000
+/wd4819
+/D_CRT_STDIO_LEGACY_WIDE_SPECIFIERS=1
+/D_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS=1
+/D_WINDLL
+/D_DISABLE_EXTENDED_ALIGNED_STORAGE
+/source-charset:utf-8
+/execution-charset:utf-8
+/Ob2
+/Ox
+/Ot
+/GF
+/errorReport:prompt
+/EHsc
+/Z7
+/MD
+/bigobj
+/fp:fast
+/Zo
+/Zp8
+/we4456
+/we4458
+/we4459
+/wd4463
+/wd4244
+/wd4838
+/I .
+/I "D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Source\Private"
+/I Runtime
+/I Runtime\TraceLog\Public
+/I Runtime\Core\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject
+/I Runtime\CoreUObject\Public
+/I Runtime\ImageCore\Public
+/I Runtime\Sockets\Public
+/I Runtime\Net
+/I Runtime\Net\Common\Public
+/I ..\Intermediate\Build\Win64\UE4Editor\Inc\JsonUtilities
+/I Runtime\JsonUtilities\Public
+/I Runtime\Json\Public
+/I Runtime\AudioMixerCore\Public
+/I Runtime\SignalProcessing\Public
+/I "D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Inc\OnlineSubsystem"
+/I "D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem"
+/I "D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Source"
+/I "D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Source\Public"
+/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.28.29333\INCLUDE"
+/I "C:\Program Files (x86)\Windows Kits\NETFXSDK\4.8\include\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
+/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/FI"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Yu"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h"
+/Fp"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.ShadowErrors.h.pch"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystem\Module.OnlineSubsystem.gen.cpp"
+/FI"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystem\Definitions.OnlineSubsystem.h"
+/Fo"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystem\Module.OnlineSubsystem.gen.cpp.obj"
+/TP
+/GR-
+/W4

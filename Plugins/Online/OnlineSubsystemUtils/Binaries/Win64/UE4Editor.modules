@@ -1,0 +1,8 @@
+{
+	"BuildId": "d58ea001-f39e-41d7-96d3-5901848deefa",
+	"Modules": 
+	{
+		"OnlineBlueprintSupport": "UE4Editor-OnlineBlueprintSupport-0017.dll",
+		"OnlineSubsystemUtils": "UE4Editor-OnlineSubsystemUtils-0017.dll"
+	}
+}

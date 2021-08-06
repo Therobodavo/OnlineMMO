@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSubsystemNull.cpp.obj": [
+			"OnlineAchievementsInterfaceNull.cpp.obj",
+			"OnlineAsyncTaskManagerNull.cpp.obj",
+			"OnlineIdentityNull.cpp.obj",
+			"OnlineLeaderboardInterfaceNull.cpp.obj",
+			"OnlineMessageSanitizerNull.cpp.obj",
+			"OnlinePurchaseInterfaceNull.cpp.obj",
+			"OnlineSessionInterfaceNull.cpp.obj",
+			"OnlineStoreV2InterfaceNull.cpp.obj",
+			"OnlineSubsystemModuleNull.cpp.obj",
+			"OnlineSubsystemNull.cpp.obj"
+		]
+	}
+}

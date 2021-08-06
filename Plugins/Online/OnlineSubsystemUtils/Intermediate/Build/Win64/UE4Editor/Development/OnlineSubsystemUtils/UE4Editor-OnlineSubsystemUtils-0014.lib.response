@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-OnlineSubsystemUtils-0014.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.cpp.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.1_of_3.cpp.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.2_of_3.cpp.obj"
+"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemUtils\Module.OnlineSubsystemUtils.gen.3_of_3.cpp.obj"
+"D:\Epic Games\UE_4.26.2\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"D:\College Stuff\Unreal\TestProjectDedi\Plugins\Online\OnlineSubsystemUtils\Intermediate\Build\Win64\UE4Editor\Development\OnlineSubsystemUtils\UE4Editor-OnlineSubsystemUtils-0014.lib"
+/INCLUDE:IMPLEMENT_MODULE_OnlineSubsystemUtils

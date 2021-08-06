@@ -1,0 +1,42 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.OnlineSubsystem.cpp.obj": [
+			"LANBeacon.cpp.obj",
+			"NamedInterfaces.cpp.obj",
+			"OnlineAsyncTaskManager.cpp.obj",
+			"OnlineError.cpp.obj",
+			"OnlineIdentityInterface.cpp.obj",
+			"OnlineKeyValuePair.cpp.obj",
+			"OnlineMessage.cpp.obj",
+			"OnlineNotification.cpp.obj",
+			"OnlineNotificationHandler.cpp.obj",
+			"OnlineNotificationTransportManager.cpp.obj",
+			"OnlinePartyInterface.cpp.obj",
+			"OnlineSessionInterface.cpp.obj",
+			"OnlineSessionSettings.cpp.obj",
+			"OnlineStats.cpp.obj",
+			"OnlineSubsystem.cpp.obj",
+			"OnlineSubsystemImpl.cpp.obj",
+			"OnlineSubsystemModule.cpp.obj",
+			"OnlineTracingInterface.cpp.obj",
+			"TurnBasedMatchInterface.cpp.obj",
+			"OnlineAchievements.spec.cpp.obj",
+			"OnlineChat.spec.cpp.obj",
+			"OnlineEntitlements.spec.cpp.obj",
+			"OnlineFriends.spec.cpp.obj",
+			"OnlineIdentity.spec.cpp.obj",
+			"OnlineLeaderboard.spec.cpp.obj",
+			"OnlineMessage.spec.cpp.obj",
+			"OnlinePresence.spec.cpp.obj",
+			"OnlineTestCommon.cpp.obj"
+		],
+		"Module.OnlineSubsystem.gen.cpp.obj": [
+			"NamedInterfaces.gen.cpp.obj",
+			"OnlineStoreInterface.gen.cpp.obj",
+			"OnlineSubsystem.init.gen.cpp.obj",
+			"OnlineTurnBasedInterface.gen.cpp.obj",
+			"TurnBasedMatchInterface.gen.cpp.obj"
+		]
+	}
+}

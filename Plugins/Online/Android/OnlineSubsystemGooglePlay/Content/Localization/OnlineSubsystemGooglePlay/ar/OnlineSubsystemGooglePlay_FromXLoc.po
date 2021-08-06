@@ -1,0 +1,71 @@
+﻿# OnlineSubsystemGooglePlay English translation.
+# Copyright 1998-2017 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: OnlineSubsystemGooglePlay\n"
+"POT-Creation-Date: 2017-04-06 04:23\n"
+"PO-Revision-Date: 2017-04-06 04:23\n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#. Key:	ErrorNoOffersSpecified
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:106
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:106
+msgctxt "GooglePlayPurchase,ErrorNoOffersSpecified"
+msgid "Failed to checkout, no offers given."
+msgstr "فشل إتمام عملية الشراء؛ لم تقدَّم أي عروض."
+
+#. Key:	ErrorPurchaseNotAllowed
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:119
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:119
+msgctxt "GooglePlayPurchase,ErrorPurchaseNotAllowed"
+msgid "Failed to checkout, user not allowed to purchase."
+msgstr "فشل إتمام عملية الشراء؛ غير مسموح للمستخدم بالشراء."
+
+#. Key:	ErrorTransactionInProgress
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:113
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:113
+msgctxt "GooglePlayPurchase,ErrorTransactionInProgress"
+msgid "Failed to checkout, user has in progress transaction."
+msgstr "فشل إتمام عملية الشراء؛ لدى المستخدم معاملة جارية."
+
+#. Key:	GooglePlayInvalidState
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:255
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:255
+msgctxt "OnlineSubsystemGooglePlay,GooglePlayInvalidState"
+msgid "Invalid purchase result"
+msgstr "نتيجة شراء غير صالحة"
+
+#. Key:	GooglePlayTransactionCancel
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:248
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:248
+msgctxt "OnlineSubsystemGooglePlay,GooglePlayTransactionCancel"
+msgid "Transaction Canceled"
+msgstr "أُلغيت المعاملة"
+
+#. Key:	GooglePlayTransactionFailed
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:244
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:244
+msgctxt "OnlineSubsystemGooglePlay,GooglePlayTransactionFailed"
+msgid "Transaction Failed"
+msgstr "فشلت المعاملة"
+
+#. Key:	GooglePlayUnexpectedState
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:261
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlinePurchaseGooglePlay.cpp:261
+msgctxt "OnlineSubsystemGooglePlay,GooglePlayUnexpectedState"
+msgid "Unexpected purchase result"
+msgstr "نتيجة شراء غير متوقعة"
+
+#. Key:	OnlineServiceName
+#. SourceLocation:	Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlineSubsystemGooglePlay.cpp:250
+#: Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Private/OnlineSubsystemGooglePlay.cpp:250
+msgctxt "OnlineSubsystemGooglePlay,OnlineServiceName"
+msgid "Google Play"
+msgstr "Google Play"
+

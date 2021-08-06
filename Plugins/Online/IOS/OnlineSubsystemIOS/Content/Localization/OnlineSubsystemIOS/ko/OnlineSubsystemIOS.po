@@ -1,0 +1,71 @@
+﻿# OnlineSubsystemIOS Korean translation.
+# Copyright 1998-2018 Epic Games, Inc. All Rights Reserved.
+# 
+msgid ""
+msgstr ""
+"Project-Id-Version: OnlineSubsystemIOS\n"
+"POT-Creation-Date: 2018-10-30 16:39\n"
+"PO-Revision-Date: 2018-10-30 16:39\n"
+"Language-Team: \n"
+"Language: ko\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#. Key:	ErrorNoOffersSpecified
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:127
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:127
+msgctxt "IOSPurchase,ErrorNoOffersSpecified"
+msgid "Failed to checkout, no offers given."
+msgstr "거래가 존재하지 않아 구매를 진행할 수 없습니다. "
+
+#. Key:	ErrorPurchaseNotAllowed
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:140
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:140
+msgctxt "IOSPurchase,ErrorPurchaseNotAllowed"
+msgid "Failed to checkout, user not allowed to purchase."
+msgstr "체크아웃 실패, 구매 권한이 없습니다."
+
+#. Key:	ErrorTransactionInProgress
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:134
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:134
+msgctxt "IOSPurchase,ErrorTransactionInProgress"
+msgid "Failed to checkout, user has in progress transaction."
+msgstr "체크아웃 실패, 진행중인 거래가 있습니다."
+
+#. Key:	IOSTransactionCancel
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:278
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:278
+msgctxt "OnlineSubsystemIOS,IOSTransactionCancel"
+msgid "TransactionCanceled"
+msgstr "거래가 취소되었습니다."
+
+#. Key:	IOSTransactionDeferred
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:385
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:385
+msgctxt "OnlineSubsystemIOS,IOSTransactionDeferred"
+msgid "Transaction awaiting approval."
+msgstr "거래 승인을 기다리는 중입니다."
+
+#. Key:	IOSTransactionFailed
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:274
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:274
+msgctxt "OnlineSubsystemIOS,IOSTransactionFailed"
+msgid "TransactionFailed"
+msgstr "거래를 실패했습니다."
+
+#. Key:	OnlineServiceName
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlineSubsystemIOS.cpp:240
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlineSubsystemIOS.cpp:240
+msgctxt "OnlineSubsystemIOS,OnlineServiceName"
+msgid "Game Center"
+msgstr "게임센터"
+
+#. Key:	UnexpectedState
+#. SourceLocation:	Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:286
+#: Plugins/Online/IOS/OnlineSubsystemIOS/Source/Private/OnlinePurchaseIOS.cpp:286
+msgctxt "OnlineSubsystemIOS,UnexpectedState"
+msgid "Unexpected purchase result"
+msgstr "예기치 못한 구매 결과"
+
